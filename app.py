@@ -8,7 +8,7 @@ import importlib
 import traceback
 
 # Configurar logging detallado
-logging.basicConfig()
+logging.basicConfig(
     level=logging.DEBUG,
     format='%(asctime)s - %(levelname)s - %(message)s',
     handlers=[
