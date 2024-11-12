@@ -36,7 +36,7 @@ for dep in dependencies:
 
 # Definir rutas
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
-MODEL_PATH = os.path.join(BASE_DIR, 'ensemble.pkl')
+MODEL_PATH = os.path.join(BASE_DIR, 'lr_best.pkl')
 VECTORIZER_PATH = os.path.join(BASE_DIR, 'vectorizer.pkl')
 
 logger.info(f"Base Directory: {BASE_DIR}")
