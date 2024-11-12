@@ -1,5 +1,7 @@
 # API de Análisis de Sentimientos Proyecto M7 - Bootcamp Ciencia de Datos
 
+Presentación: https://docs.google.com/presentation/d/1tRVpLlZKmuNpqcglKnY0-C4VBsXPdWpRXYcqJYJlF10/edit?usp=sharing
+
 ## Descripción General
 Esta API proporciona análisis de sentimientos para reviews de aplicaciones, clasificándolas en positivas, neutrales o negativas.
 
